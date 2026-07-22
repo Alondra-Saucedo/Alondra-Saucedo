@@ -1,5 +1,3 @@
-Aquí tienes el código completo de tu archivo `README.md` actualizado para incluir **Node.js**, **PHP**, **HTML** y **Python** directamente dentro de la tabla de tu stack tecnológico:
-
 ```markdown
 <div align="center">
   <h1>¡Hola! Soy Alondra Saucedo 👋</h1>
