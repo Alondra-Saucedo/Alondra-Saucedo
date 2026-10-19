@@ -59,6 +59,6 @@ Mi objetivo es aportar una actitud proactiva, capacidad analítica y un fuerte d
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Alondra-Saucedo&show_icons=true&theme=radical&hide_border=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Alondra-Saucedo&layout=compact&theme=radical&hide_border=true)
