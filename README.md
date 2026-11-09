@@ -1,64 +1,89 @@
-# 👋 ¡Hola! Soy Alondra Saucedo
+<div align="center">
 
-## 💻 Estudiante de 19 años de T.S.U. en Desarrollo de Software Multiplataforma
-**Universidad Tecnológica de Coahuila (UTC)**
+# ✨ ¡Hola, soy Alondra Saucedo! ✨
 
-Apasionada por la ingeniería de software, los proyectos científicos, la gestión de proyectos de digitalización y el desarrollo web **Backend** y **Frontend**.
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/development.svg" width="40" height="40" />
 
-📍 Actualmente realizo mis **Estadías Profesionales** en el **PJECZ**.
+### 💻 Estudiante de T.S.U. en Desarrollo de Software Multiplataforma
+**Universidad Tecnológica de Coahuila (UTC)** 🚀
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Buscando_Nuevos_Retos-ff69b4?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estadía-PJECZ-9370DB?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-GenAI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
-## 🌟 Sobre mí
-
-Soy una desarrolladora en formación sumamente curiosa y con una gran pasión por el aprendizaje continuo. Me encanta explorar nuevas tecnologías, mantenerme a la vanguardia en el mundo tech y aprender de forma autodidacta para enfrentar retos cada vez más complejos.
-
-Mi objetivo es aportar una actitud proactiva, capacidad analítica y un fuerte deseo de construir soluciones eficientes en el mundo real.
-
----
-
-## 💡 Intereses y Motivación
-
-- 📚 **Exploración Tecnológica:** Me motiva investigar constantemente herramientas modernas, arquitecturas escalables e Inteligencia Artificial Generativa.
-- 🧩 **Resolución de Problemas:** Disfruto descifrar y resolver retos lógicos y técnicos, especialmente en la lógica de negocio y bases de datos.
-- 🛠️ **Creación de Proyectos:** Llevo ideas a la práctica desarrollando aplicaciones web funcionales que integran desde bases de datos relacionales hasta interfaces intuitivas.
+</div>
 
 ---
 
-## 🛠️ Stack Tecnológico & Habilidades
+### 💖 Sobre Mí
 
-| Categoría | Tecnologías |
-|:-----------|:------------|
-| **Lenguajes de Programación** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
-| **Desarrollo Web & Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![REST API](https://img.shields.io/badge/API_RESTful-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) |
-| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white) |
-| **Entornos & Despliegue** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+> Soy una desarrolladora en formación sumamente curiosa y con una gran pasión por el aprendizaje continuo. Me encanta explorar nuevas tecnologías, mantenerme a la vanguardia en el mundo tech y aprender de forma autodidacta para enfrentar retos cada vez más complejos. Mi objetivo es aportar una actitud proactiva, capacidad analítica y un fuerte deseo de construir soluciones eficientes en el mundo real.
 
 ---
 
-## 🚀 Experiencia Destacada
+### ⚡ Intereses & Motivación
 
-### 💼 Desarrolladora de Software | Proyecto Integrador UTC
-**Enero 2026 – Presente**
-
-**Proyecto:** Expediente de Recursos Humanos (Sistema de gestión y digitalización para la UTC).
-
-- Desarrollo de una plataforma web integral bajo una arquitectura escalable.
-- Diseño e implementación de una **API RESTful** utilizando **C#** para la lógica de negocio y seguridad.
-- Configuración del entorno de servidor con **Node.js**.
-- Modelado de bases de datos relacionales con **MySQL**.
+* **🔍 Exploración Tecnológica:** Me motiva investigar constantemente herramientas modernas, arquitecturas escalables e Inteligencia Artificial Generativa.
+* **🧩 Resolución de Problemas:** Disfruto descifrar y resolver retos lógicos y técnicos, especialmente en la lógica de negocio y bases de datos.
+* **🛠️ Creación de Proyectos:** Llevo ideas a la práctica desarrollando aplicaciones web funcionales que integran desde bases de datos relacionales hasta interfaces intuitivas.
 
 ---
 
-## 🏆 Logros y Certificaciones
+### 🛠️ Stack Tecnológico & Habilidades
 
-- 🥇 Seleccionada en el **Bécalos Tech Challenge 2026**, programa de alto rendimiento para el desarrollo de habilidades tecnológicas y resolución de retos técnicos.
-- ☁️ Certificación profesional **AWS GenAI Practitioner**.
+| Categoría | Tecnologías & Herramientas |
+| :--- | :--- |
+| **Lenguajes** | `C#` `JavaScript` `Python` `PHP` |
+| **Frontend & Web** | `HTML5` `CSS3` `React` `Bootstrap` `Tailwind CSS` `Astro` |
+| **Backend & APIs** | `Node.js` `Express` `RESTful APIs` `Swagger` |
+| **Bases de Datos** | `MySQL` `Microsoft SQL Server` `Oracle` `MongoDB` |
+| **Entornos & Control** | `Git` `GitHub` `Docker` `VS Code` `Linux (Fedora)` |
 
 ---
 
-## 📊 Estadísticas de GitHub
+### 💼 Experiencia Destacada
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Alondra-Saucedo&show_icons=true&theme=radical&hide_border=true)
+#### 🚀 Desarrolladora de Software | Proyecto Integrador UTC (`ApiRRHH` / `RECLUMATIC`)
+* **Periodo:** Enero 2026 – Presente
+* **Descripción:** Desarrollo de una plataforma web integral bajo una arquitectura modular y escalable para la gestión y digitalización de expedientes de recursos humanos.
+* **Stack:** C# (.NET / ASP.NET Core), Node.js, Angular, MySQL.
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Alondra-Saucedo&layout=compact&theme=radical&hide_border=true)
+#### 🏛️ Estadías Profesionales | Poder Judicial del Estado de Coahuila de Zaragoza (PJECZ)
+* **Periodo:** 2026
+* **Descripción:** Migración y modernización del portal institucional utilizando **Astro**, optimizando la arquitectura de navegación y automatización de contenidos en Markdown.
+
+---
+
+### 🏆 Logros y Certificaciones
+
+* 🌟 **Bécalos Tech Challenge 2026:** Selección en programa de alto rendimiento para el desarrollo de habilidades tecnológicas y resolución de retos en colaboración con Fundación Traxión.
+* ☁️ **AWS Certified GenAI Practitioner:** Insignia digital obtenida a través de la iniciativa *AWS Hecho en México*.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Alondra-Saucedo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=9370DB&text_color=c9d1d9" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alondra-Saucedo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/code-frequency?username=Alondra-Saucedo&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4" alt="Code Frequency" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>✨ ¡Conectemos! ✨</h3>
+  <p>
+    <a href="https://github.com/Alondra-Saucedo">
+      <img src="https://img.shields.io/badge/GitHub-Alondra--Saucedo-181717?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
