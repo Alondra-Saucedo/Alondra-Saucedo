@@ -2,7 +2,7 @@
 
 # ✨ ¡Hola, soy Alondra Saucedo! ✨
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/development.svg" width="40" height="40" />
+<img src="https://img.shields.io/badge/Full_Stack_Developer-ff69b4?style=for-the-badge&logo=react&logoColor=white" />
 
 ### 💻 Estudiante de T.S.U. en Desarrollo de Software Multiplataforma
 **Universidad Tecnológica de Coahuila (UTC)** 🚀
@@ -45,8 +45,8 @@
 
 ### 💼 Experiencia Destacada
 
-#### 🚀 Desarrolladora de Software | Proyecto Integrador UTC (`ApiRRHH` / `RECLUMATIC`)
-* **Periodo:** Enero 2026 – Presente
+#### 🚀 Desarrolladora de Software | Proyecto Integrador UTC (`RRHH`)
+* **Periodo:** Enero 2026 – Mayo 2026
 * **Descripción:** Desarrollo de una plataforma web integral bajo una arquitectura modular y escalable para la gestión y digitalización de expedientes de recursos humanos.
 * **Stack:** C# (.NET / ASP.NET Core), Node.js, Angular, MySQL.
 
