@@ -72,11 +72,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alondra-Saucedo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9" alt="Top Languages" />
   </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/code-frequency?username=Alondra-Saucedo&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4" alt="Code Frequency" />
-  </p>
 </div>
-
 ---
 
 <div align="center">
